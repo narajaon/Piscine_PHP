@@ -1,0 +1,142 @@
+.Other
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: yellow;
+}
+
+.Alakli
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: orange;
+}
+
+.Alakli-ea
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: brown;
+}
+
+.Trans
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: green;
+}
+
+.Lanth
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: fuchsia;
+}
+
+.Acti
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: aqua;
+}
+
+.Empty
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px white;
+	margin: 5px;
+	text-align: justify;
+}
+
+.Metal
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: grey;
+}
+
+.Post
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: cornflowerblue;
+}
+
+.Halo
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: blue;
+}
+
+.Noble
+{
+	padding: 50px;
+	height: 15px;
+	width: 5%;
+	border: 1px solid white;
+	margin: 5px;
+	text-align: justify;
+	background-color: purple;
+}
+
+.nu
+{
+	position: relative;
+	right: 35px;
+	top: 40px;
+	font-family: times new roman;
+}
+
+.elem
+{
+	position: relative;
+	bottom: 25px;
+	right: 10px;
+	font-size: 25px;
+}
+
+body
+{
+	display: flex;
+	font-family: arial black;
+	background-image: url("background2.jpg");
+}
